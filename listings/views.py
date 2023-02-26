@@ -96,3 +96,5 @@ def about(request):
     }
 
     return Response(request, 'pages/about.html', context)
+
+    # incroyable juste
